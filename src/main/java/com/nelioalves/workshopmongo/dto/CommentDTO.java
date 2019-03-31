@@ -3,8 +3,6 @@ package com.nelioalves.workshopmongo.dto;
 import java.io.Serializable;
 import java.util.Date;
 
-import com.nelioalves.workshopmongo.domain.User;
-
 public class CommentDTO implements Serializable {
 
 	private static final long serialVersionUID = 1L;
